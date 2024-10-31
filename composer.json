@@ -1,0 +1,21 @@
+{
+	"autoload": {
+		"psr-4": {
+			"ProtectMyContent\\": ""
+		}
+	},
+	"description": "An amazing plugin made with PLUBO",
+	"homepage": "https://github.com/joanrodas/plubo",
+	"keywords": [
+		"plugin",
+		"wordpress",
+		"boilerplate",
+		"wp"
+	],
+	"license": "GPL-3.0+",
+	"name": "sirvelia/protect-my-content",
+	"require": {
+		"php": "\u003e=7.4"
+	},
+	"type": "wordpress-plugin"
+}
